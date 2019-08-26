@@ -1,5 +1,5 @@
-Illuminattis
-============
+Illuminatis
+===========
 
 ## O que é este repositório?
 
@@ -12,7 +12,7 @@ Mande um pull request com novos Illuminatis.
 Cada arquivo deve ser salvo em:
 
 ```
-/illuminattis/<nome>.json
+/illuminatis/<nome>.json
 /imgs/<nome>.jpg
 ```
 
@@ -23,7 +23,7 @@ Cada personagem deve ser salvo como o seguinte documento::
 ```json
 {
     "nome": "Elizabeth II",
-    "imagem": "/img/illuminatis/rainha.jpg",
+    "imagem": "/img/rainha.jpg",
     "idade": "Infinity",
     "poder": "Política", 
     "atributos": {
