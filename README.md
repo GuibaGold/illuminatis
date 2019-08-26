@@ -31,11 +31,7 @@ Cada personagem deve ser salvo como o seguinte documento::
         "inteligencia": 15,
         "influencia": 20,
     },
-    "habilidades": {
-        "politica": 20,
-        "mecanica": 15, 
-        "direcao": 16,
-    }
+    "habilidades": ["politica", "mecanica", "direcao"]
 }
 ```
 
