@@ -1,0 +1,13 @@
+{
+    "nome": "",
+    "imagem": "/img/markzuckeberg.jpg",
+    "idade": "Unknown",
+    "poder": "Infinity", 
+    "atributos": {
+        "forca": 1,
+        "inteligencia": 9000,
+        "influencia": 1000000
+    },
+    "habilidades": ["politica", "programacao", "persuasao", "espionagem", "matematica"]
+
+}
